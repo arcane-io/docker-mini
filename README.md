@@ -1,9 +1,9 @@
 # Small Docker Image
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/arcaneio/docker-min.svg?style=flat)](https://hub.docker.com/r/arcaneio/docker-cron/)
-[![Docker Automated build](https://img.shields.io/docker/automated/arcaneio/docker-min.svg?style=flat)](https://hub.docker.com/r/arcaneio/docker-min/)
-[![Docker Build Status](https://img.shields.io/docker/build/arcaneio/docker-min.svg?style=flat)](https://hub.docker.com/r/arcaneio/docker-min/)
-[![license](https://img.shields.io/github/license/arcane-io/docker-min.svg)](https://github.com/arcane-io/docker-min)
+[![Docker Pulls](https://img.shields.io/docker/pulls/arcaneio/mini.svg?style=flat)](https://hub.docker.com/r/arcaneio/mini/)
+[![Docker Automated build](https://img.shields.io/docker/automated/arcaneio/mini.svg?style=flat)](https://hub.docker.com/r/arcaneio/mini/)
+[![Docker Build Status](https://img.shields.io/docker/build/arcaneio/mini.svg?style=flat)](https://hub.docker.com/r/arcaneio/mini/)
+[![license](https://img.shields.io/github/license/arcane-io/docker-mini.svg)](https://github.com/arcane-io/docker-mini)
 
 Docker min is a small docker image based on `alpine` which allows for easy configuration of multiple services.
 
