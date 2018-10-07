@@ -5,7 +5,7 @@
 [![Docker Build Status](https://img.shields.io/docker/build/arcaneio/mini.svg?style=flat)](https://hub.docker.com/r/arcaneio/mini/)
 [![license](https://img.shields.io/github/license/arcane-io/docker-mini.svg)](https://github.com/arcane-io/docker-mini)
 
-Docker min is a small docker image based on `alpine` which allows for easy configuration of multiple services.
+Docker min is a small docker image based on `alpine` which allows for easy configuration of multiple services using [supervisord](http://supervisord.org/configuration.html).
 
 ## Adding services
 
