@@ -1,6 +1,7 @@
 FROM alpine
 
-RUN apk add --no-cache \
+RUN apk add --update --no-cache \
+            bash \
             supervisor
             
 RUN mkdir /etc/supervisord.d
